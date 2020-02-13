@@ -28,3 +28,10 @@ You want to check the module `social_media`
 Open a terminal and run
  
 `./check_module.sh -m social_media`
+
+### Bonus
+If you want to create a drupal.org issue with the results:
+
+`./check_module.sh -com social_media`
+
+And paste the results in the issue.
